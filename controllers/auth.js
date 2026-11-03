@@ -3,9 +3,18 @@ const validator = require("validator");
 const User = require("../models/User");
 
 exports.getLogin = (req, res) => {
+  console.log('This prints because it does not need the user to be authenticated')
   if (req.user) {
+    console.log("Hello, look at this below")
+    console.log(req)
+    console.log("Username:", req.user.userName);
+    console.log("Email:", req.user.email);
+    console.log("IP Address:", req.socket.remoteAddress);
+    console.log("Request URL:", req.originalUrl);
+    console.log("Request Method:", req.method);
     return res.redirect("/profile");
   }
+
   res.render("login", {
     title: "Login",
   });
