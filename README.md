@@ -5,7 +5,7 @@ Use this program if you want to leave a message on a forum!
 Coming Soon!
 
 # 📋 How to use
-Download files. 
+Download files.   
 Make a new post.   
 Let other users upvote or downvote your message!
 
