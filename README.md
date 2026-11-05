@@ -1,5 +1,5 @@
-# ☀️ Fullstack Forum App
-Use this program if you want to leave a message on a forum!
+# ☀️ Fullstack Not-Insta App
+Use this social media app if you want to connect with friends, and see your custom feed!
 
 # Link
 Coming Soon!
