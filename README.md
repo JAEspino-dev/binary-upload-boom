@@ -7,7 +7,7 @@ Coming Soon!
 # 📋 How to use
 Download files.   
 Make a new post.   
-Let other users upvote or downvote your message!
+Let other users upvote or downvote your post!
 
 # 📷 Images
 <img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="./public/imgs/ProjectScreenshot.png" />
