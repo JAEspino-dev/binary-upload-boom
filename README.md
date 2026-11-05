@@ -1,20 +1,30 @@
-# Install
+# ☀️ Fullstack Forum App
+Use this program if you want to leave a message on a forum!
 
-`npm install`
+# Link
+Coming Soon!
 
----
+# 📋 How to use
+Download files. 
+Make a new post.   
+Let other users upvote or downvote your message!
 
-# Things to add
+# 📷 Images
+<img width="1438" height="1176" alt="Screenshot 2026-10-04 at 5 37 53 PM" src="./public/imgs/ProjectScreenshot.png" />
 
-- Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+# ✨ Features
+Fully responsive design for desktop and mobile.         
 
----
+# 🔨 Built With
+HTML5 – structure,    
+CSS3 – responsive design and background,    
+JavaScript - frontend and backend.   
+Node - backend.   
 
-# Run
-
-`npm start`
+# 🧠 What I Learned
+How to work with Node.    
+How to work with APIs.   
+How to use fetch().   
+How to work with JSON data.  
+How to manipulate the DOM.  
+How to handle errors.  
